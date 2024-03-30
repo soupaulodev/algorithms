@@ -1,10 +1,10 @@
 {
-  "name": "nodejs",
+  "name": "algorithms",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js"
+    "b-search": "node --trace-warnings binary-search.js"
   },
   "keywords": [],
   "author": "",
